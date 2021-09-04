@@ -6,7 +6,7 @@
 
 </div>
 
-#### **NOTICE: The following project is based on the [ERPNext](https://github.com/frappe/erpnext). Thie RecruitmentTool Project and all its related repositories in no way are in coordination with the ERPNext Open Source Project.**
+#### **NOTICE: The following project is based on [ERPNext](https://github.com/frappe/erpnext). Thie RecruitmentTool Project and all its related repositories in no way are in coordination with the ERPNext Open Source Project.**
 ERPNext as a monolith includes the following areas for managing businesses:
 
 1. [Accounting](https://erpnext.com/open-source-accounting)
