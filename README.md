@@ -1,18 +1,12 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png" height="128">
-    <h2>ERPNext</h2>
+    <h2>Act Coalition Recruitment Tool</h2>
     <p align="center">
-        <p>ERP made simple</p>
-    </p>
 
-[![CI](https://github.com/frappe/erpnext/actions/workflows/server-tests.yml/badge.svg?branch=develop)](https://github.com/frappe/erpnext/actions/workflows/server-tests.yml)
-[![Open Source Helpers](https://www.codetriage.com/frappe/erpnext/badges/users.svg)](https://www.codetriage.com/frappe/erpnext)
-[![Coverage Status](https://coveralls.io/repos/github/frappe/erpnext/badge.svg?branch=develop)](https://coveralls.io/github/frappe/erpnext?branch=develop)
-
-[https://erpnext.com](https://erpnext.com)
+[https://actcoalition.us](https://actcoalition.us)
 
 </div>
 
+#### ** NOTICE: The following project is based on the [ERPNext](https://github.com/frappe/erpnext). Thie RecruitmentTool Project and all its related repositories in no way are in coordination with the ERPNext Open Source Project. **
 ERPNext as a monolith includes the following areas for managing businesses:
 
 1. [Accounting](https://erpnext.com/open-source-accounting)
